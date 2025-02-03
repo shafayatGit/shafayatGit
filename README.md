@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Md. Shafayat Hossain Patowary <br> from Dhaka, Bangladesh</h2>
+<h2 align="center">Hi 👋! <br><br> I am Md. Shafayat Hossain Patowary <br> from Dhaka, Bangladesh</h2>
 
 ###
 
