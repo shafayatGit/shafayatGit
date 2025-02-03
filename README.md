@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋! <br><br> I am Md. Shafayat Hossain Patowary <br> from Dhaka, Bangladesh</h2>
 <h2 align="center"><a href="shafayathossain.drmc@gmail.com">Reach Me Here</a></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
 ###
 
