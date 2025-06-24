@@ -6,7 +6,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development backend technologies like NodeJs, MongoDB etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m currently learning everything about Frontend and Backend technologies 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
   <h2 align="center"><a href="shafayathossain.drmc@gmail.com"><a href="https://fontmeme.com/fonts/flashback-font/"><img src="https://fontmeme.com/permalink/250624/a8f8afaa87355cbebc8a55a657776c7d.png" alt="flashback-font" border="0"></a></a></h2>
 
