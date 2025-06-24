@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! <br><br> I am Md. Shafayat Hossain Patowary <br> from Dhaka, Bangladesh</h2>
-<h2 align="center"><a href="shafayathossain.drmc@gmail.com">Reach Me Here</a></h2>
+<h2 align="center"><a href="shafayathossain.drmc@gmail.com">shafayathossain.drmc@gmail.com</a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
 ###
@@ -17,16 +17,30 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/84bSpzsP/skill-icons-javascript.png" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/X6v0c4w/skill-icons-expressjs-dark.png" height="30" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://i.ibb.co/bjMZNp0k/logos-react-router.png" height="30" alt="react-router logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://i.ibb.co/pjXVJW0J/skill-icons-nodejs-dark.png" height="30" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://i.ibb.co/HLwn6wS0/mongodb.png" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/gLnmSgKj/logos-jwt-icon.png" height="30" alt="jwt logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/gLvTdvj5/logos-firebase.png" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/tTMW1Tqb/skill-icons-c.png" height="30" alt="C logo"  />
+  <img width="12" />
+  
+ 
   
 </div>
 
