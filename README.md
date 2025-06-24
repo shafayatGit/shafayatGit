@@ -61,6 +61,7 @@
 <a href="https://www.linkedin.com/in/shafayat-hossain-patowary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. shafayat hossain" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafayat hossain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__shafayat__1?igsh=bnAwdHR6Y3RsaHpm&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shafayat__1" height="30" width="40" /></a>
+  <a href="https://wa.me/+8801635873987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shafayat hossain" height="30" width="40" /></a>
 </p>
 
 ###
