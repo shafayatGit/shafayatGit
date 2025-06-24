@@ -1,8 +1,16 @@
-<h2 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br><br> I am Md. Shafayat Hossain Patowary <br> from Dhaka, Bangladesh</h2>
-<h2 align="center"><a href="shafayathossain.drmc@gmail.com">shafayathossain.drmc@gmail.com</a></h2>
+<h2 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br><br> I am 𝑴𝙙. 𝑺𝙝𝒂𝙛𝒂𝙮𝒂𝙩 𝙃𝒐𝙨𝒔𝙖𝒊𝙣 𝙋𝒂𝙩𝒐𝙬𝒂𝙧𝒚<br> 𝙰 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙳𝚑𝚊𝚔𝚊,𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
-###
+
+## I'm a Computer Science and Engineering Student  
+
+- 👨‍💻 I’m currently working on web development backend technologies like NodeJs, MongoDB etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+  <h2 align="center"><a href="shafayathossain.drmc@gmail.com">shafayathossain.drmc@gmail.com</a></h2>
+
+ ###
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
@@ -16,8 +24,8 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-###
 
+### Languages and Tools 🛠 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
