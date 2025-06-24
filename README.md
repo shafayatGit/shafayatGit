@@ -1,17 +1,19 @@
-<h2 align="center">Hi 👋! <br><br> I am Md. Shafayat Hossain Patowary <br> from Dhaka, Bangladesh</h2>
+<h2 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br><br> I am Md. Shafayat Hossain Patowary <br> from Dhaka, Bangladesh</h2>
 <h2 align="center"><a href="shafayathossain.drmc@gmail.com">shafayathossain.drmc@gmail.com</a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
 ###
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafayatGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatGit&theme=radical&title_color=8E2DE2&text_color=fff)
+ 
 </div>
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/7e30b811-afb3-484e-b080-51497d41f367"  />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 ###
