@@ -13,47 +13,94 @@
 
  ###
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<div  align="center">
+<div >
+ <img src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatGit&theme=radical&title_color=8E2DE2&text_color=fff)
- 
+</div>
+
+<div >
+<img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
+  
 </div>
 
 ###
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 
-### Languages and Tools 🛠 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/84bSpzsP/skill-icons-javascript.png" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/X6v0c4w/skill-icons-expressjs-dark.png" height="30" alt="expressjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/bjMZNp0k/logos-react-router.png" height="30" alt="react-router logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/pjXVJW0J/skill-icons-nodejs-dark.png" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/HLwn6wS0/mongodb.png" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/gLnmSgKj/logos-jwt-icon.png" height="30" alt="jwt logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/gLvTdvj5/logos-firebase.png" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/tTMW1Tqb/skill-icons-c.png" height="30" alt="C logo"  />
-  <img width="12" />
-  
- 
-  
-</div>
+
+
+
+###
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+<table  align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>React</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>React Router</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Firebase</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>MongoDB</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Express.js</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Figma</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ###
 
