@@ -15,10 +15,13 @@
 
 <div  align="center">
 <div >
- <img src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+ <img src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"><br>
+ <img src="https://nirzak-streak-stats.vercel.app/?user=shafayatGit&theme=jolly&hide_border=false">
+
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatGit&theme=radical&title_color=8E2DE2&text_color=fff)
 </div>
+
 
 <div >
 <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -36,7 +39,7 @@
 
 ###
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2>Tech Stack</h2>
 
 <table  align="center">
   <tbody>
