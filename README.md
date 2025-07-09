@@ -17,9 +17,6 @@
 <div >
  <img src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"><br>
  <img src="https://nirzak-streak-stats.vercel.app/?user=shafayatGit&theme=jolly&hide_border=false">
-
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatGit&theme=radical&title_color=8E2DE2&text_color=fff)
 </div>
 
 
