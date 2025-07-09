@@ -15,9 +15,9 @@
 
 <div  >
 <div >
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- <img src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"><br>
- <img src="https://nirzak-streak-stats.vercel.app/?user=shafayatGit&theme=jolly&hide_border=false">
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"><br>
+ <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shafayatGit&theme=jolly&hide_border=false">
  <div >
 </div>
 </div>
