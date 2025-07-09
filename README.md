@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
 
-## I'm a Computer Science and Engineering Student  
+## 🔆 I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development backend technologies like NodeJs, MongoDB etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 
+- 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📧 `|shafayathossain.drmc@gmail.com|`
  
@@ -37,7 +37,7 @@
 
 ###
 
-<h2>Tech Stack</h2>
+<h1>💻 Tech Stack</h1>
 
 <table  align="center">
   <tbody>
@@ -105,11 +105,11 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">🔌 Connect with me:</h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/shafayat-hossain-patowary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. shafayat hossain" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafayat hossain" height="30" width="40" /></a>
-<a href="https://wa.me/+8801635873987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shafayat hossain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shafayat-hossain-patowary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. shafayat hossain" height="40" width="40" /></a>
+<a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafayat hossain" height="40" width="40" /></a>
+<a href="https://wa.me/+8801635873987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shafayat hossain" height="40" width="40" /></a>
 </p>
 
 ###
