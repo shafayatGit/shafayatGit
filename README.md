@@ -1,4 +1,6 @@
 
+ <img align="center" width="100%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /><br>
+ 
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F76C6C&width=900&lines=AssalamuAlaikum+👋+I'm+Md.+Shafayat+Hossain+Patowary;MERN+Stack+Developer+from+Dhaka,+Bangladesh;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+learning+%7C+Open+to+Work" alt="Typing SVG" />
 </h1>
@@ -9,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
 
-## 🔆 I'm a Computer Science and Engineering Student  
+## <h1>🔆 I'm a Computer Science and Engineering Student</h1>  
 
 - 👨‍💻 I’m currently working on web development backend technologies like NodeJs, MongoDB etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
@@ -21,7 +23,7 @@
 
 <div  >
 <div align="center">
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /><br>
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"><br>
  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shafayatGit&theme=jolly&hide_border=false"><br>
  <div >
