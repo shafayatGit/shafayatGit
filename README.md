@@ -13,7 +13,7 @@
 
 ## <h1>🔆 I'm a Computer Science and Engineering Student</h1>  
 
-- 👨‍💻 I’m currently working on web development backend technologies like NodeJs, MongoDB etc.
+- 👨‍💻 I’m currently working on web development Next.js and TypeScript.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📧 `|shafayathossain.drmc@gmail.com|`
