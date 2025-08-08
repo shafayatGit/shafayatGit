@@ -1,5 +1,5 @@
 
- <img align="center" width="100%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /><br>
+ <img align="center" width="100%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /><br>
  
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F76C6C&width=900&lines=AssalamuAlaikum+👋+I'm+Md.+Shafayat+Hossain+Patowary;MERN+Stack+Developer+from+Dhaka,+Bangladesh;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+learning+%7C+Open+to+Work" alt="Typing SVG" />
