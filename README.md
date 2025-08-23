@@ -92,6 +92,10 @@
         <span><strong>MongoDB</strong></span><br><br><br>
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
       </td>
+     <td width="25%" align="center">
+        <span><strong>Mongoose</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
+      </td>
       <td width="25%" align="center">
         <span><strong>Express.js</strong></span><br><br><br>
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
@@ -100,12 +104,13 @@
         <span><strong>Figma</strong></span><br><br><br>
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
       </td>
-      <td width="25%" align="center">
+      
+    </tr>
+   <tr>
+    <td width="25%" align="center">
         <span><strong>C</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
       </td>
-    </tr>
-   <tr>
     <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -113,6 +118,10 @@
      <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Intellij Idea</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
       </td>
      
    </tr>
