@@ -101,8 +101,8 @@
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Figma</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+        <span><strong>NodeJS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
       </td>
     </tr>
    <tr>
