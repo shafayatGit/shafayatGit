@@ -104,7 +104,6 @@
         <span><strong>Figma</strong></span><br><br><br>
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
       </td>
-      
     </tr>
    <tr>
     <td width="25%" align="center">
