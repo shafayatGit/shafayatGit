@@ -130,6 +130,15 @@
 </table>
 
 
+###
+<h1 align="left">🏅Certificates</h1>
+<br/>
+<p>Honored to achieve the Black Belt – Web Developer award from Programming Hero 🏆. The most prestigious recognition of the Complete Web Development Course — earned through dedication, consistency, and passion for building real-world projects 💻</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dp44jbhsq/image/upload/v1761488743/xkrzajvfzoc8xbnokjam.jpg" height="400px" alt="MERN Stack Certificate" >
+</p>
+
 
 ###
 
