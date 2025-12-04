@@ -10,6 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
 
+
 ## <h1>🔆 I'm a Computer Science and Engineering Student</h1>  
 
 - 👨‍💻 I’m currently working on web development Next.js and TypeScript.
@@ -23,10 +24,9 @@
 <div  >
 <div align="center">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafayatGit&show_icons=true&theme=jolly&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"><br>
  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shafayatGit&theme=jolly&hide_border=false"><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatGit&layout=compact&theme=jolly)
-
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shafayatGit&theme=github-dark-dimmed&custom_title=Shafayat's%20Activity%20Graph&hide_border=true)](https://github.com/shafayatGit/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafayatGit&theme=midnight_purple)
  <div >
 </div>
 </div>
