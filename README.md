@@ -11,10 +11,10 @@
 
 
 
-## <h1>🔆 I'm a Computer Science and Engineering Student</h1>  
+## <h1>🔆 A Computer Science and Engineering Student</h1>  
 
-- 👨‍💻 I’m currently working on web development Next.js and TypeScript.
-- 📚 I’m currently learning everything about Frontend and Backend technologies.
+- 👨‍💻 Currently working on Next.js and TypeScript.
+- 📚 Learning Database design and API testing. Exploring PostgreSQL.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📧 `|shafayathossain.drmc@gmail.com|`
  
