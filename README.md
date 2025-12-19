@@ -25,8 +25,8 @@
 <div align="center">
 
  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shafayatGit&theme=jolly&hide_border=false"><br>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shafayatGit&theme=github-dark-dimmed&custom_title=Shafayat's%20Activity%20Graph&hide_border=true)](https://github.com/shafayatGit/github-readme-activity-graph)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafayatGit&theme=midnight_purple)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shafayatGit&theme=jolly&hide_border=false&custom_title=Shafayat's%20Activity%20Graph&hide_border=true)](https://github.com/shafayatGit/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatGit&layout=donut-vertical&theme=jolly&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
  <div >
 </div>
 </div>
