@@ -81,8 +81,8 @@
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>NextJS</strong></span><br><br><br>
