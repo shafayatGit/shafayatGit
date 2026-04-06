@@ -51,78 +51,79 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+         <span><strong>HTML</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+         <span><strong>CSS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+          <span><strong>Javascript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Typescript</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://github.com/user-attachments/assets/2be44685-1f8e-4656-be2c-7b435670e7cc" />
+      </td>
+     <td width="25%" align="center">
+        <span><strong>C++</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://github.com/user-attachments/assets/d547dea6-827f-483b-aad3-ed5e55454392" />
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Java</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+      </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>React Router</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Firebase</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>PostgreSQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="25%" align="center">
+     <td width="25%" align="center">
         <span><strong>NextJS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
       </td>
-       </tr>
-    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Tailwind</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+          <span><strong>PostgreSQL</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
       <td width="25%" align="center">
         <span><strong>MongoDB</strong></span><br><br><br>
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
       </td>
-     <td width="25%" align="center">
-        <span><strong>Mongoose</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
+      <td width="25%" align="center">
+        <span><strong>Prisma</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/user-attachments/assets/56e3446f-c26c-4499-ba12-1a71a05f675d"/>
       </td>
+       </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Express.js</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+        <img height="64px" src="https://github.com/user-attachments/assets/edbaa7b6-f1c3-455f-a87f-4695924e86b5" />
       </td>
       <td width="25%" align="center">
         <span><strong>NodeJS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-      </td>
-    </tr>
-   <tr>
-    <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
-      </td>
-    <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+        <img height="64px" src="https://github.com/user-attachments/assets/f0d6a4fd-0fc8-47cb-a51c-03ca890eca4a" />
       </td>
      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+       <span><strong>VS Code</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span>Intellij Idea</span><br><br><br>
+       <span><strong>Intellij Idea</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
       </td>
+    </tr>
+   <tr>
+    
      
    </tr>
   </tbody>
