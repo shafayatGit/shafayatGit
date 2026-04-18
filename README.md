@@ -144,9 +144,9 @@
 
 <h1 align="left">🔌 Connect with me:</h1>
  <p align="center">
-<a href="https://www.linkedin.com/in/shafayat-hossain-patowary/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" src="icon"></a>
-<a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  width="40" src="icon"></a>
-<a href="https://wa.me/+8801635873987"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" src="icon"></a>
+<a href="https://www.linkedin.com/in/shafayat-hossain-patowary/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" src="icon"></a>
+<a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  width="40" src="icon"></a>
+<a href="https://wa.me/+8801635873987" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" src="icon"></a>
 </p>
 
 ###
