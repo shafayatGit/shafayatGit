@@ -143,10 +143,10 @@
 ###
 
 <h1 align="left">🔌 Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/shafayat-hossain-patowary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. shafayat hossain" height="40" width="40" /></a>
-<a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafayat hossain" height="40" width="40" /></a>
-<a href="https://wa.me/+8801635873987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shafayat hossain" height="40" width="40" /></a>
+ <p align="center">
+<a href="https://www.linkedin.com/in/shafayat-hossain-patowary/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" src="icon"></a>
+<a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  width="40" src="icon"></a>
+<a href="https://wa.me/+8801635873987"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" src="icon"></a>
 </p>
 
 ###
