@@ -1,11 +1,8 @@
 
  <img align="center" width="100%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /><br>
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F76C6C&width=900&lines=AssalamuAlaikum+👋+I'm+Md.+Shafayat+Hossain+Patowary;MERN+Stack+Developer+from+Dhaka,+Bangladesh;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+learning+%7C+Open+to+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F76C6C&width=900&lines=AssalamuAlaikum+👋+I'm+Md.+Shafayat+Hossain+Patowary;Full+Stack+Developer+from+Dhaka,+Bangladesh;Always+learning+%7C+Open+to+Work" alt="Typing SVG" />
 </h1>
- <a href="https://fontmeme.com/3d-rotation/">
-
- <img src="https://fontmeme.com/permalink/250624/06c04b3338b205b335c1220f66fafb1c.png" alt="3d-rotation" border="0"></a><br> 𝙰 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙳𝚑𝚊𝚔𝚊,𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
