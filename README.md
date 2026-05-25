@@ -8,7 +8,7 @@
 
 
 
-## <h1>🔆 A Computer Science and Engineering Student</h1>  
+## <h1>🔆 𝔸 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕊𝕥𝕦𝕕𝕖𝕟𝕥</h1>  
 
 - 👨‍💻 Currently working on Next.js and TypeScript.
 - 📚 Learning Database design and API testing. Exploring PostgreSQL.
@@ -34,103 +34,191 @@
 
 ###
 
+<h1>𝕋𝕠𝕡 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h1>
 
+<table align="center" width="100%">
+  <tbody>
+    <tr valign="top">   
+      <td align="center" width="16.66%">
+        <strong>𝘊-𝘭𝘢𝘯𝘨</strong>
+        <br><br>
+        <img
+          height="64"
+          src="https://iconic-api.onrender.com/dark/c"
+          alt="C"
+        />
+      </td>
+      <td align="center" width="16.66%">
+        <strong>𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵</strong>
+        <br><br>
+        <img
+          height="64"
+          src="https://iconic-api.onrender.com/dark/js"
+          alt="JavaScript"
+        />
+      </td>
+      <td align="center" width="16.66%">
+        <strong>𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</strong>
+        <br><br>
+        <img
+          height="64"
+          src="https://iconic-api.onrender.com/dark/typescript"
+          alt="TypeScript"
+        />
+      </td>
+      <td align="center" width="16.66%">
+        <strong>𝘎𝘰</strong>
+        <br><br>
+        <img
+          height="64"
+          src="https://iconic-api.onrender.com/dark/go"
+          alt="CSS"
+        />
+      </td>
+      <td align="center" width="16.66%">
+        <strong>𝘊++</strong>
+        <br><br>
+        <img
+          height="64"
+          src="https://iconic-api.onrender.com/dark/cpp"
+          alt="C++"
+        />
+      </td>
+      <td align="center" width="16.66%">
+        <strong>𝘑𝘢𝘷𝘢</strong>
+        <br><br>
+        <img
+          height="64"
+          src="https://iconic-api.onrender.com/dark/java"
+          alt="Java"
+        />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
-
-
-
-###
-
-<h1>💻 Tech Stack</h1>
+<h1>𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕 & 𝔻𝕖𝕤𝕚𝕘𝕟</h1>
 
 <table  align="center">
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-         <span><strong>HTML</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      <td width="16.66%" align="center">
+         <span><strong>𝘏𝘛𝘔𝘓</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/html">
       </td>
-      <td width="25%" align="center">
-         <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      <td width="16.66%" align="center">
+         <span><strong>𝘊𝘚𝘚</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/css">
       </td>
-      <td width="25%" align="center">
-          <span><strong>Javascript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+     <td width="16.66%" align="center">
+          <span><strong>𝘛𝘢𝘪𝘭𝘸𝘪𝘯𝘥</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/tailwind">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Typescript</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://github.com/user-attachments/assets/2be44685-1f8e-4656-be2c-7b435670e7cc" />
+      <td width="16.66%" align="center">
+          <span><strong>𝘙𝘦𝘢𝘤𝘵</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/react">
       </td>
-     <td width="25%" align="center">
-        <span><strong>C++</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://github.com/user-attachments/assets/d547dea6-827f-483b-aad3-ed5e55454392" />
+      <td width="16.66%" align="center">
+        <span><strong>𝘕𝘦𝘹𝘵 𝘑𝘴</strong>
+        </span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/nextjs" />
       </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-     <td width="25%" align="center">
-        <span><strong>NextJS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Tailwind</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-          <span><strong>PostgreSQL</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Prisma</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/user-attachments/assets/56e3446f-c26c-4499-ba12-1a71a05f675d"/>
-      </td>
-       </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Express.js</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/user-attachments/assets/edbaa7b6-f1c3-455f-a87f-4695924e86b5" />
-      </td>
-      <td width="25%" align="center">
-        <span><strong>NodeJS</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/user-attachments/assets/f0d6a4fd-0fc8-47cb-a51c-03ca890eca4a" />
-      </td>
-     <td width="25%" align="center">
-       <span><strong>VS Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-       <span><strong>Intellij Idea</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
+     <td width="16.66%" align="center">
+        <span><strong>𝘎𝘚𝘈𝘗</strong></span><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gsap/default.svg">
       </td>
     </tr>
    <tr>
-    
-     
+    <td width="16.66%" align="center">
+        <span><strong>𝘍𝘳𝘢𝘮𝘦𝘳</strong></span><br><br>
+        <img height="64px" src="https://cdn.simpleicons.org/framer">
+      </td>
+        <td width="16.66%" align="center">
+        <span><strong>𝘍𝘪𝘨𝘮𝘢</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/figma">
+      </td>
    </tr>
+  </tbody>
+</table>
+
+###
+
+<h1>𝔹𝕒𝕔𝕜𝕖𝕟𝕕 𝔸𝕟𝕕 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪</h1>
+
+<table  align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="16.66%" align="center">
+         <span><strong>𝘕𝘰𝘥𝘦𝘫𝘴</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/nodejs">
+      </td>
+      <td width="16.66%" align="center">
+         <span><strong>𝘌𝘹𝘱𝘳𝘦𝘴𝘴𝘑𝘴</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/express">
+      </td>
+      <td width="16.66%" align="center">
+        <span><strong>𝘗𝘰𝘴𝘵𝘨𝘳𝘦𝘴𝘲𝘭</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/postgresql">
+      </td>
+      <td width="16.66%" align="center">
+        <span><strong>𝘗𝘳𝘪𝘴𝘮𝘢</strong>
+        </span><br><br>
+        <img height="64px" src="https://cdn.simpleicons.org/prisma" />
+      </td>
+     <td width="16.66%" align="center">
+          <span><strong>𝘔𝘰𝘯𝘨𝘰𝘋𝘉</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/mongodb">
+      </td>
+      <td width="16.66%" align="center">
+          <span><strong>𝘔𝘰𝘯𝘨𝘰𝘰𝘴𝘦</strong></span><br><br>
+        <img height="64px" src="https://github.com/user-attachments/assets/fe50c069-2613-4398-84e3-b6ff9d77df41" />
+      </td>
+    </tr>
+   <tr>
+     <td width="16.66%" align="center">
+         <span><strong>𝘉𝘦𝘵𝘵𝘦𝘳-𝘈𝘶𝘵𝘩</strong></span><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/better-auth/dark.svg">
+      </td>
+    <td width="16.66%" align="center">
+         <span><strong>𝘍𝘪𝘳𝘦𝘣𝘢𝘴𝘦</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/firebase">
+      </td>
+    <td width="16.66%" align="center">
+         <span><strong>𝘚𝘵𝘳𝘪𝘱𝘦</strong></span><br><br>
+        <img height="64px" src="https://github.com/user-attachments/assets/b94a4363-3d2f-4f87-b77e-51b2d6e9b419">
+      </td>
+   </tr>
+  </tbody>
+</table>
+
+###
+
+<h1>𝕋𝕠𝕠𝕝𝕤</h1>
+
+<table  align="center">
+  <tbody>
+    <tr valign="top">
+      <td  align="center">
+         <span><strong>𝘎𝘐𝘛</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/git">
+      </td>
+      <td  align="center">
+         <span><strong>𝘎𝘪𝘵𝘩𝘶𝘣</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/github">
+      </td>
+      <td  align="center">
+          <span><strong>𝘝𝘦𝘳𝘤𝘦𝘭</strong></span><br><br>
+        <img height="64px" src="https://iconic-api.onrender.com/dark/vercel">
+      </td>
+    </tr>
   </tbody>
 </table>
 
 
 ###
-<h1 align="left">🏅Certificates</h1>
+<h1 align="left">🏅ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕖𝕤</h1>
 <br/>
-<p>Honored to achieve the Black Belt – Web Developer award from Programming Hero 🏆. The most prestigious recognition of the Complete Web Development Course — earned through dedication, consistency, and passion for building real-world projects 💻</p>
+<p>𝘏𝘰𝘯𝘰𝘳𝘦𝘥 𝘵𝘰 𝘢𝘤𝘩𝘪𝘦𝘷𝘦 𝘵𝘩𝘦 𝘉𝘭𝘢𝘤𝘬 𝘉𝘦𝘭𝘵 – 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘢𝘸𝘢𝘳𝘥 𝘧𝘳𝘰𝘮 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘏𝘦𝘳𝘰 🏆. 𝘛𝘩𝘦 𝘮𝘰𝘴𝘵 𝘱𝘳𝘦𝘴𝘵𝘪𝘨𝘪𝘰𝘶𝘴 𝘳𝘦𝘤𝘰𝘨𝘯𝘪𝘵𝘪𝘰𝘯 𝘰𝘧 𝘵𝘩𝘦 𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘦 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘊𝘰𝘶𝘳𝘴𝘦 — 𝘦𝘢𝘳𝘯𝘦𝘥 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘥𝘦𝘥𝘪𝘤𝘢𝘵𝘪𝘰𝘯, 𝘤𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘤𝘺, 𝘢𝘯𝘥 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘳𝘦𝘢𝘭-𝘸𝘰𝘳𝘭𝘥 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 💻</p>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dp44jbhsq/image/upload/v1761488743/xkrzajvfzoc8xbnokjam.jpg" height="400px" alt="MERN Stack Certificate" >
@@ -139,10 +227,10 @@
 
 ###
 
-<h1 align="left">🔌 Connect with me:</h1>
+<h1 align="left">🔌 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖:</h1>
  <p align="center">
 <a href="https://www.linkedin.com/in/shafayat-hossain-patowary/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" src="icon"></a>
-<a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  width="40" src="icon"></a>
+<a href="https://www.facebook.com/share/1GJpj5vBip/?mibextid=wwXIfr" target="_blank"><img src="https://cdn.simpleicons.org/facebook"  width="40" src="icon"></a>
 <a href="https://wa.me/+8801635873987" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" src="icon"></a>
 </p>
 
