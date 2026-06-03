@@ -43,7 +43,7 @@
         <strong>𝘊-𝘭𝘢𝘯𝘨</strong>
         <br><br>
         <img
-          height="64"
+          height="64px"
           src="https://iconic-api.onrender.com/dark/c"
           alt="C"
         />
@@ -52,7 +52,7 @@
         <strong>𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵</strong>
         <br><br>
         <img
-          height="64"
+          height="64px"
           src="https://iconic-api.onrender.com/dark/js"
           alt="JavaScript"
         />
@@ -61,7 +61,7 @@
         <strong>𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</strong>
         <br><br>
         <img
-          height="64"
+          height="64px"
           src="https://iconic-api.onrender.com/dark/typescript"
           alt="TypeScript"
         />
@@ -70,7 +70,7 @@
         <strong>𝘎𝘰</strong>
         <br><br>
         <img
-          height="64"
+          height="64px"
           src="https://iconic-api.onrender.com/dark/go"
           alt="CSS"
         />
@@ -79,7 +79,7 @@
         <strong>𝘊++</strong>
         <br><br>
         <img
-          height="64"
+          height="64px"
           src="https://iconic-api.onrender.com/dark/cpp"
           alt="C++"
         />
@@ -88,7 +88,7 @@
         <strong>𝘑𝘢𝘷𝘢</strong>
         <br><br>
         <img
-          height="64"
+          height="64px"
           src="https://iconic-api.onrender.com/dark/java"
           alt="Java"
         />
