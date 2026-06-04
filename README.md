@@ -1,7 +1,7 @@
 
  <img align="center" width="100%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /><br>
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F76C6C&width=900&lines=AssalamuAlaikum+👋+I'm+Md.+Shafayat+Hossain+Patowary;Full+Stack+Developer+from+Dhaka,+Bangladesh;Always+learning+%7C+Open+to+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F76C6C&width=900&lines=AssalamuAlaikum+👋+I'm+Md.+Shafayat+Hossain+Patowary;Full+Stack+Engineer+from+Dhaka,+Bangladesh;Always+learning+%7C+Open+to+Work" alt="Typing SVG" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
