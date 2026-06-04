@@ -22,7 +22,7 @@
 <div align="center">
  
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shafayatGit&theme=jolly&hide_border=false&custom_title=Shafayat's%20Activity%20Graph&hide_border=true)](https://github.com/shafayatGit/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shafayatGit&&theme=jolly&hide_border=falsecurrStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shafayatGit&theme=synthwave)](https://git.io/streak-stats)
  <div >
 </div>
 </div>
