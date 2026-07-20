@@ -7,13 +7,29 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatgit&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatgit" /> </p>
 
 
+## 🔆 𝔸 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕊𝕥𝕦𝕕𝕖𝕟𝕥
 
-## <h1>🔆 𝔸 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕊𝕥𝕦𝕕𝕖𝕟𝕥</h1>  
+- 👨‍💻 Currently building full-stack applications with **Next.js** & **TypeScript**.
+- 🎯 Passionate about backend development, scalable systems, and modern web technologies.
+- 📧 **Email:** `shafayathossain.drmc@gmail.com`
 
-- 👨‍💻 Currently working on Next.js and TypeScript.
-- 📚 Learning Database design and API testing. Exploring PostgreSQL.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 📧 `|shafayathossain.drmc@gmail.com|`
+---
+
+## 📚 Currently Learning
+
+<p>
+🚀 Continuously expanding my backend and DevOps skills through hands-on projects and real-world practice.
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash,nginx" />
+</p>
+
+- 🐳 **Docker & Docker Compose**
+- ⚙️ **CI/CD Pipelines** with GitHub Actions
+- 🐧 **Linux** & **Shell Scripting**
+- 🌐 **Nginx** (Reverse Proxy)
+- ☁️ **Cloud Deployment** & DevOps Fundamentals
  
 
  ###
@@ -216,14 +232,17 @@
 
 
 ###
-<h1 align="left">🏅ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕖𝕤</h1>
-<br/>
-<p>𝘏𝘰𝘯𝘰𝘳𝘦𝘥 𝘵𝘰 𝘢𝘤𝘩𝘪𝘦𝘷𝘦 𝘵𝘩𝘦 𝘉𝘭𝘢𝘤𝘬 𝘉𝘦𝘭𝘵 – 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘢𝘸𝘢𝘳𝘥 𝘧𝘳𝘰𝘮 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘏𝘦𝘳𝘰 🏆. 𝘛𝘩𝘦 𝘮𝘰𝘴𝘵 𝘱𝘳𝘦𝘴𝘵𝘪𝘨𝘪𝘰𝘶𝘴 𝘳𝘦𝘤𝘰𝘨𝘯𝘪𝘵𝘪𝘰𝘯 𝘰𝘧 𝘵𝘩𝘦 𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘦 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘊𝘰𝘶𝘳𝘴𝘦 — 𝘦𝘢𝘳𝘯𝘦𝘥 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘥𝘦𝘥𝘪𝘤𝘢𝘵𝘪𝘰𝘯, 𝘤𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘤𝘺, 𝘢𝘯𝘥 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘳𝘦𝘢𝘭-𝘸𝘰𝘳𝘭𝘥 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 💻</p>
+<h1 align="left">🏅 ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕖𝕤</h1>
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dp44jbhsq/image/upload/v1761488743/xkrzajvfzoc8xbnokjam.jpg" height="400px" alt="MERN Stack Certificate" >
+<p>
+𝘈 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘮𝘺 𝘤𝘦𝘳𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘢𝘯𝘥 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴 𝘵𝘩𝘢𝘵 𝘳𝘦𝘧𝘭𝘦𝘤𝘵 𝘮𝘺 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘰𝘶𝘴 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘨𝘳𝘰𝘸𝘵𝘩.
 </p>
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dp44jbhsq/image/upload/v1784555228/L1-certificate_r6dgve.jpg" width="60%"><br><br>
+  <img src="https://res.cloudinary.com/dp44jbhsq/image/upload/v1761488743/xkrzajvfzoc8xbnokjam.jpg" width="60%"><br><br>
+  <img src="https://res.cloudinary.com/dp44jbhsq/image/upload/v1784555225/L2-certificate_jxzi9l.jpg" width="60%">
+</p>
 
 ###
 
